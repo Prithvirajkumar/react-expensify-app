@@ -4,14 +4,6 @@ import { Provider } from "react-redux";
 import AppRouter from "./routers/AppRouter";
 import configureStore from "./store/configureStore";
 import getVisibleExpenses from "./selectors/expenses";
-import { addExpense, editExpense, removeExpense } from "./actions/expenses";
-import {
-  setEndDate,
-  setStartDate,
-  setTextFilter,
-  sortByAmount,
-  sortByDate,
-} from "./actions/filters";
 import "normalize.css/normalize.css";
 import "./styles/styles.css";
 import "react-dates/lib/css/_datepicker.css";
