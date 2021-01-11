@@ -1,0 +1,19 @@
+.header {
+  background-color: var(--dark-blue);
+}
+
+.header__content {
+  align-items: center;
+  display: flex;
+  justify-content: space-between;
+  padding: var(--s-size) 0;
+}
+
+.header__title {
+  color: var(--white);
+  text-decoration: none;
+}
+
+.header__title h1 {
+  margin: 0;
+}

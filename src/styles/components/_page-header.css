@@ -1,0 +1,18 @@
+.page-header {
+  background-color: var(--off-white);
+  margin-bottom: var(--l-size);
+  padding: var(--l-size) 0;
+}
+
+.page-header__actions {
+  margin-top: var(--m-size);
+}
+
+.page-header__title {
+  font-weight: 300;
+  margin: 0;
+}
+
+.page-header__title span {
+  font-weight: bold;
+}

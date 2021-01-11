@@ -1,0 +1,20 @@
+.button {
+  background: var(--blue);
+  color: var(--white);
+  display: inline-block;
+  border: none;
+  font-weight: 300;
+  font-size: var(--font-size-large);
+  padding: var(--s-size);
+  border-radius: 3px;
+  text-decoration: none;
+  line-height: 1;
+}
+
+.button--link {
+  background: none;
+}
+
+.button--secondary {
+  background-color: #888888;
+}

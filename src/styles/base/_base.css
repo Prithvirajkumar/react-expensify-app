@@ -1,11 +1,16 @@
+* {
+  box-sizing: border-box;
+}
+
 html {
-  font-size: 162.5%;
+  font-size: 62.5%;
 }
 
 body {
-  background-color: var(--dark-blue);
+  color: var(--dark-grey);
   font-family: Helvetica, Arial, sans-serif;
   font-size: var(--m-size);
+  line-height: 1.6;
 }
 
 button {

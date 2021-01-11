@@ -1,0 +1,23 @@
+.text-input {
+  border: 1px solid #cacccd;
+  height: 50px;
+  font-size: var(--font-size-large);
+  font-weight: 300;
+  padding: var(--s-size);
+}
+
+.select {
+  border: 1px solid #cacccd;
+  height: 50px;
+  font-size: var(--font-size-large);
+  font-weight: 300;
+  padding: var(--s-size);
+}
+
+.textarea {
+  border: 1px solid #cacccd;
+  height: 10rem;
+  font-size: var(--font-size-large);
+  font-weight: 300;
+  padding: var(--s-size);
+}
